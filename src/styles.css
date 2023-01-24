@@ -1,0 +1,81 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+  color: blueviolet;
+  overflow-x: hidden;
+}
+
+.App div {
+  font-family: sans-serif;
+  margin-top: 0%;
+  padding-top: 1%;
+}
+
+.App div {
+  color: rgb(37, 0, 71);
+  margin: 0%;
+  display: flex;
+  font-family: "Quicksand", sans-serif;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+  gap: 10px;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.ae {
+  width: 50px;
+  height: auto;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.Azz {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ed {
+  margin-left: 35%;
+}
+
+input {
+  width: 400px;
+  height: 35px;
+  padding-left: 2%;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid blueviolet;
+  color: rgb(139, 139, 139);
+}
+
+.bg {
+  background-color: rgb(158, 125, 188);
+}
+
+h3 {
+  font-family: "Caveat", cursive;
+}
+
+.bg1 {
+  background-color: darkorchid;
+}
+
+.bg2 {
+  background-color: indigo;
+}
+
+.bg3 {
+  background-color: rgb(51, 90, 153);
+  border: 1px dashed rgb(51, 90, 153);
+}
